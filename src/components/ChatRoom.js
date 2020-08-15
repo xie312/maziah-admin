@@ -9,6 +9,7 @@ const styles = (theme) => ({
     flexGrow: 1,
     overflow: "auto",
     margin: "5px",
+    display: "none",
   },
   form: {
     margin: "20px",
